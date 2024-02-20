@@ -1,0 +1,6 @@
+# Product version 10.2
+# Build version 4618
+setVersionVar currentJobCore "Senban_Zigu";
+setVersionVar stlDirectory "G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit";
+setVersionVar stlPath "G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit/Senban_Zigu.stl";
+setVersionVar toolpathFile "Senban_Zigu.cmb";

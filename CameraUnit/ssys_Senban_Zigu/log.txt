@@ -1,0 +1,46 @@
+session {2/20 1:01:50pm > Hanaoka opened job C:/ProgramData/Stratasys/FDMControlCenter/10.2/jobs/Hanaoka/Default.sjb.  Insight 10.2 (4618).}
+msg {1:01:51pm > Read 220 facets in 0:00 from "G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit/Senban_Zigu.stl"}
+msg {1:01:51pm > STL comment: STLB ATF 12.20.0.176}
+msg {1:01:51pm > Bounding box of this STL X, Y, Z:}
+msg {1:01:51pm >       min = (-22.7500, 0.0000, -22.7500)}
+msg {1:01:51pm >       max = (22.7500, 35.0000, 22.7500)}
+msg {1:01:51pm > Done loading STL file after 1 sec.}
+msg {1:02:07pm > Saved job:  G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit/ssys_Senban_Zigu/Senban_Zigu.sjb}
+msg {1:03:29pm > 	Slice height:	0.0100}
+msg {1:03:29pm > Done slicing.}
+msg {1:03:29pm > Supports removed}
+msg {1:03:29pm > 	Support style:	SMART}
+msg {1:03:30pm > Inspecting part curves}
+msg {1:03:30pm > Generating supports}
+msg {1:03:30pm > Done generating supports after 6 sec.}
+msg {1:03:31pm > Done writing boundary curves after 6 sec.}
+msg {1:03:31pm > Saved job:  G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit/ssys_Senban_Zigu/Senban_Zigu.sjb}
+msg {1:03:31pm > 	Part fill style:	One contour /  rasters}
+msg {1:03:31pm > 	Part interior style:	Solid - normal}
+msg {1:03:31pm > 	Contour width:	0.0200}
+msg {1:03:31pm > 	Part raster width:	0.0200}
+msg {1:03:32pm > Done generating toolpaths after 6 sec.}
+msg {1:03:33pm > CMB moved to envelope center.}
+msg {1:03:34pm > Toolpath Information}
+msg {1:03:34pm > 	Est. build time:	1 hr 46 min }
+msg {1:03:34pm > 	Model material:	3.525 in�}
+msg {1:03:34pm > 	Support material:	0.093 in�}
+msg {1:03:34pm > Done writing CMB file after 6 sec.}
+msg {1:03:34pm > Job Summary}
+msg {1:03:34pm > 	Full job path:	G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit/ssys_Senban_Zigu/Senban_Zigu.sjb}
+msg {1:03:34pm > 	Toolpath file name:	Senban_Zigu.cmb}
+msg {1:03:34pm > 	Modeler:		Fortus 250mc}
+msg {1:03:34pm > 	Est. build time:	1 hr 46 min }
+msg {1:03:34pm > 	Model material:	3.525 in�,	T14,	ABS P430}
+msg {1:03:34pm > 	Support material:	0.093 in�,	T16,	ABS SR30}
+msg {1:03:34pm > 	Slice height:	0.0100}
+msg {1:03:34pm > 	Part fill style:	One contour /  rasters}
+msg {1:03:34pm > 	Part interior style:	Solid - normal}
+msg {1:03:34pm > 	Visible surface style:	Enhanced}
+msg {1:03:34pm > 	Support style:	SMART}
+msg {1:03:34pm > 	Contour width:	0.0200}
+msg {1:03:34pm > 	Number of contours:	0.2500}
+msg {1:03:34pm > 	Part interior contours:	0.0150}
+msg {1:03:34pm > 	Part raster width:	0.0200}
+msg {1:03:34pm > 	Application:	Insight 10.2, Build version: 4618}
+msg {1:03:34pm > Saved job:  G:/共有ドライブ/reRo/05_個人/hanaoka/inventor/CameraUnit/ssys_Senban_Zigu/Senban_Zigu.sjb,  approximate build time 1 hr 46 min }
