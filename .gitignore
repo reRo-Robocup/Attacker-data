@@ -1,2 +1,7 @@
 /OldVersions
 /workspace
+
+*.stp
+*.step
+*.stl
+*.3mf
